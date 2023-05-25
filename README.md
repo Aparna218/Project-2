@@ -1,6 +1,7 @@
 # Lithium
 
 ## Open to Intern Project Requirement
+This project is like internshala. In this project we are developing backend server. And students and colleges can create their accounts and students can apply for interships. In this project we are using nodejs server and express js framework , mongodb databasase and mongoose library, jsonweb token is used for authentication and authorisation. Above mention tech stack is used in this projects 
 
 ### Key points
 - Create a group database `groupXDatabase`. You can clean the db you previously used and resue that.
